@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Instagram](http://zhatka_1108}
 - 😄 Pronouns: ... He/ Him
 - ⚡ Fun fact: ... I am an Evil Genius
+
+[![](https://github.com/lutherleo/lutherleo/blob/main/dino.gif)](#)
