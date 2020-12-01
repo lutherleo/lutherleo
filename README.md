@@ -1,6 +1,5 @@
-### Hi there 👋
+## Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Data Modelling and Cleaning
 - 🌱 I’m currently learning ... R and Python
