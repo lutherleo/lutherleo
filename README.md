@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ...Data Modelling and Cleaning
-- 🌱 I’m currently learning ... R and Python
+- 🔭 I’m currently working on ...Research 
+- 🌱 I’m currently learning ... Rwby and Python
 - 👯 I’m looking to collaborate on ... Deep and machine learning
 - 🤔 I’m looking for help with ... Git
 - 💬 Ask me about ... My Data Anyalsis
