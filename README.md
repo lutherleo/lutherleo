@@ -1,4 +1,4 @@
-(http://www.instagram.com/zhatka_1108}
+http://www.instagram.com/zhatka_1108
 
 [![](https://github.com/lutherleo/lutherleo/blob/main/dino.gif)](#)
 [![](https://github-readme-stats.vercel.app/api?username=lutherleo)](https://github.com/lutherleo/github-readme-stats)
