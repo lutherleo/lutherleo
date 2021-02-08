@@ -1,7 +1,6 @@
 <h3 align="center">Hey there, I'm Love Kush Pranu - aka lutherleo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-
   <a href="https://twitter.com/LoveKush_Pranu"><img alt="followers" title="Follow me on Twitter" src = "https://img.shields.io/twitter/follow/LoveKush_Pranu?color=blue&label=Twitter&logo=twitter&style=for-the-badge"/></a>
   <a href="https://github.com/lutherleo"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/lutherleo?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/lutherleo"><img alt="views" title="Github views" src="https://img.shields.io/github/watchers/lutherleo/lutherleo?color=purple&label=Watches&logo=github&style=for-the-badge"/></a>
