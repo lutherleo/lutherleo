@@ -1,5 +1,3 @@
-
-
 <h3 align="center">Hey there, I'm Love Kush Pranu </h3>
 
 <p align="center">
