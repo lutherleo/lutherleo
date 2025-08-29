@@ -12,11 +12,5 @@
 [![](https://github-readme-stats.vercel.app/api?username=lutherleo&hide=issues)](https://github.com/lutherleo/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lutherleo&layout=compact)](https://github.com/lutherleo/github-readme-stats)
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lutherleo&theme=dark"/>
-  </a>
-  <br/>
-</p>
   <!--<a href="https://youtube.com/channel/UCbhPWvz1y-Ty6d_WWJGPQOw?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/subscribers/UCbhPWvz1y-Ty6d_WWJGPQOw?label=Subscribe&logo=Youtube&logoColor=red&style=for-the-badge"/></a> 
  <a href="https://youtube.com/channel/UCbhPWvz1y-Ty6d_WWJGPQOw"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> -->
