@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:064E3B&height=180&section=header&text=lovekush.sh&fontSize=52&fontColor=A7F3D0&fontAlignY=48&fontAlign=25&desc=security%20engineer%20%E2%80%A2%20kernel%20%E2%80%A2%20post-quantum&descSize=16&descAlignY=72&descAlign=25" width="100%" alt="lovekush.sh — security engineer · kernel · post-quantum">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:064E3B&height=180&section=header&text=loveku.sh&fontSize=52&fontColor=A7F3D0&fontAlignY=48&fontAlign=25&desc=security%20engineer%20%E2%80%A2%20kernel%20%E2%80%A2%20post-quantum&descSize=16&descAlignY=72&descAlign=25" width="100%" alt="lovekush.sh — security engineer · kernel · post-quantum">
 
 ```bash
 $ whoami
