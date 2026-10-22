@@ -21,7 +21,7 @@ reachable:   lp2989@nyu.edu · linkedin.com/in/lovekush-pranu
   <a href="https://www.linkedin.com/in/lovekush-pranu/"><img src="https://img.shields.io/badge/linkedin-lovekush--pranu-0F172A?style=flat-square&logo=linkedin&logoColor=10B981" alt="LinkedIn"></a>
   <a href="https://lovekushpranu.com/"><img src="https://img.shields.io/badge/web-lovekushpranu.com-0F172A?style=flat-square&logo=googlechrome&logoColor=10B981" alt="Website"></a>
   <a href="mailto:lp2989@nyu.edu"><img src="https://img.shields.io/badge/mail-lp2989@nyu.edu-0F172A?style=flat-square&logo=maildotru&logoColor=10B981" alt="Email"></a>
-  <a href="https://x.com/Lovekush_pranu"><img src="https://img.shields.io/badge/x-Lovekush__pranu-0F172A?style=flat-square&logo=x&logoColor=10B981" alt="X"></a>
+  <a href="https://x.com/Wubber_Duckkie"><img src="https://img.shields.io/badge/x-Lovekush__pranu-0F172A?style=flat-square&logo=x&logoColor=10B981" alt="X"></a>
 </p>
 
 ---
