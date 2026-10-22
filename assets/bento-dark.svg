@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="614" viewBox="0 0 960 614" role="img" aria-label="Love Kush Pranu: Research Coordinator and Infrastructure Lead">
+<title>Love Kush Pranu: Research Coordinator and Infrastructure Lead</title>
+<style>
+/* Elements start hidden and animate in, so reduced motion must jump to the end state. */
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+.t { opacity: 0; animation: rise .6s cubic-bezier(.2,.7,.2,1) forwards; }
+@keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; opacity: 1 !important; stroke-dashoffset: 0 !important; transform: none !important; }
+}
+</style>
+<defs><linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+<g class="t" style="animation-delay:0.10s"><rect x="0.5" y="0.5" width="472" height="333" rx="18" fill="url(#hero)" stroke="none"/><text x="24" y="70" font-size="44" font-weight="800" fill="#ffffff">Love Kush Pranu</text>
+<text x="24" y="104" font-size="18" font-weight="600" fill="#ffffff" fill-opacity=".85">Research Coordinator and Infrastructur…</text>
+<text x="24" y="168" font-size="19" fill="#ffffff" fill-opacity=".95">I build security tooling and AI-powered</text><text x="24" y="195" font-size="19" fill="#ffffff" fill-opacity=".95">vulnerability scanners for production</text><text x="24" y="222" font-size="19" fill="#ffffff" fill-opacity=".95">systems.</text>
+<text x="24" y="308" font-size="14" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" fill="#ffffff" fill-opacity=".75">github.com/lutherleo</text></g>
+<g class="t" style="animation-delay:0.19s"><rect x="487.5" y="0.5" width="228.5" height="159" rx="18" fill="#161b22" stroke="#30363d"/><text x="509" y="34" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8b949e">EXPERIENCE</text>
+<text x="509" y="112" font-size="58" font-weight="800" fill="#a78bfa">4</text>
+<text x="551.7536" y="112" font-size="16" fill="#8b949e">years</text></g>
+<g class="t" style="animation-delay:0.28s"><rect x="731" y="0.5" width="228.5" height="159" rx="18" fill="#161b22" stroke="#30363d"/><text x="752.5" y="34" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8b949e">BASED IN</text>
+<text x="752.5" y="84" font-size="22" font-weight="700" fill="#e6edf3">New York, NY</text></g>
+<g class="t" style="animation-delay:0.37s"><rect x="487.5" y="174.5" width="228.5" height="159" rx="18" fill="#161b22" stroke="#30363d"/><text x="509" y="252" font-size="51" font-weight="800" fill="#a78bfa">5,000+</text>
+<text x="509" y="286" font-size="15" fill="#8b949e">CTF participants</text><text x="509" y="306" font-size="15" fill="#8b949e">served</text></g>
+<g class="t" style="animation-delay:0.46s"><rect x="731" y="174.5" width="228.5" height="159" rx="18" fill="#161b22" stroke="#30363d"/><text x="752.5" y="252" font-size="54" font-weight="800" fill="#a78bfa">14/15</text>
+<text x="752.5" y="286" font-size="15" fill="#8b949e">vulnerabilities</text><text x="752.5" y="306" font-size="15" fill="#8b949e">detected, zero false…</text></g>
+<g class="t" style="animation-delay:0.55s"><rect x="0.5" y="348.5" width="472" height="139" rx="18" fill="#161b22" stroke="#30363d"/><text x="22" y="382" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8b949e">RIGHT NOW</text>
+<circle cx="443" cy="378" r="6" fill="#3fb950"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="22" y="424" font-size="20" font-weight="700" fill="#e6edf3">Serverless CTF infrastructure and</text><text x="22" y="452" font-size="20" font-weight="700" fill="#e6edf3">GPU-backed grading automation</text></g>
+<g class="t" style="animation-delay:0.64s"><rect x="487.5" y="348.5" width="472" height="139" rx="18" fill="#161b22" stroke="#30363d"/><text x="509" y="382" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8b949e">STACK</text><rect x="509" y="402" width="145.76" height="26" rx="13" fill="#21262d" stroke="#30363d"/><text x="520" y="419.5" font-size="13" fill="#c9d1d9">Python (advanced)</text><rect x="662.76" y="402" width="58.400000000000006" height="26" rx="13" fill="#21262d" stroke="#30363d"/><text x="673.76" y="419.5" font-size="13" fill="#c9d1d9">C/C++</text><rect x="729.16" y="402" width="36.56" height="26" rx="13" fill="#21262d" stroke="#30363d"/><text x="740.16" y="419.5" font-size="13" fill="#c9d1d9">Go</text><rect x="773.72" y="402" width="51.120000000000005" height="26" rx="13" fill="#21262d" stroke="#30363d"/><text x="784.72" y="419.5" font-size="13" fill="#c9d1d9">Bash</text><rect x="832.84" y="402" width="51.120000000000005" height="26" rx="13" fill="#21262d" stroke="#30363d"/><text x="843.84" y="419.5" font-size="13" fill="#c9d1d9">Perl</text><rect x="891.96" y="402" width="43.84" height="26" rx="13" fill="#21262d" stroke="#30363d"/><text x="902.96" y="419.5" font-size="13" fill="#c9d1d9">SQL</text><rect x="509" y="436" width="65.68" height="26" rx="13" fill="#21262d" stroke="#30363d"/><text x="520" y="453.5" font-size="13" fill="#c9d1d9">Cypher</text><rect x="582.6800000000001" y="436" width="43.84" height="26" rx="13" fill="#21262d" stroke="#30363d"/><text x="593.6800000000001" y="453.5" font-size="13" fill="#c9d1d9">C++</text><rect x="634.5200000000001" y="436" width="102.08000000000001" height="26" rx="13" fill="#21262d" stroke="#30363d"/><text x="645.5200000000001" y="453.5" font-size="13" fill="#c9d1d9">Mathematica</text><rect x="744.6000000000001" y="436" width="36.56" height="26" rx="13" fill="#21262d" stroke="#30363d"/><text x="755.6000000000001" y="453.5" font-size="13" fill="#c9d1d9">C#</text><rect x="789.1600000000001" y="436" width="72.96000000000001" height="26" rx="13" fill="#21262d" stroke="#30363d"/><text x="800.1600000000001" y="453.5" font-size="13" fill="#c9d1d9">PyTorch</text></g>
+<g class="t" style="animation-delay:0.73s"><rect x="0.5" y="502.5" width="959" height="111" rx="18" fill="#161b22" stroke="#30363d"/><text x="22" y="536" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8b949e">CAREER</text>
+<line x1="150" y1="554" x2="900" y2="554" stroke="#30363d" stroke-width="2"/>
+<circle cx="150" cy="554" r="6" fill="#161b22" stroke="#a78bfa" stroke-width="2"/>
+<text x="142" y="582" text-anchor="start" font-size="13" font-weight="700" fill="#e6edf3">Robert Bosch India Ltd.</text>
+<text x="142" y="600" text-anchor="start" font-size="12" fill="#8b949e">2022</text>
+<circle cx="525" cy="554" r="6" fill="#161b22" stroke="#a78bfa" stroke-width="2"/>
+<text x="525" y="582" text-anchor="middle" font-size="13" font-weight="700" fill="#e6edf3">Pentadots Solutions</text>
+<text x="525" y="600" text-anchor="middle" font-size="12" fill="#8b949e">2023</text>
+<circle cx="900" cy="554" r="8" fill="#a78bfa" stroke="#a78bfa" stroke-width="2"/>
+<text x="908" y="582" text-anchor="end" font-size="13" font-weight="700" fill="#e6edf3">NYU OSIRIS Lab</text>
+<text x="908" y="600" text-anchor="end" font-size="12" fill="#8b949e">2024</text></g>
+</svg>
